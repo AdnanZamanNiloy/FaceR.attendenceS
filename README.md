@@ -1,5 +1,5 @@
 
-# Face Recognition Attendance System for University Students
+# Face Recognition Attendance System 
 
 **Enhancing Attendance Accuracy with Facial Recognition Technology**
 
@@ -82,13 +82,6 @@ The Face Recognition Attendance System is an advanced desktop application design
 | Liveness Detection| Eye-blink detection via facial landmarks                                   |
 | Webcam Integration| Real-time webcam using OpenCV                                              |
 
-## Benefits
-
-- Time-efficient and reduces manual work
-- Highly Secure – prevents cheating or proxy attendance
-- Accurate Results – Over 97% accuracy rate
-- Smart Education Tool – encourages tech-based learning
-- Developer-Friendly – built with Python and MySQL
 
 ## Demo
 
@@ -118,14 +111,14 @@ If you encounter any issues:
 
 - Visit the Support tab
 - Email the developer directly via the built-in Gmail module
-- Access guides via YouTube and Facebook
+
 
 ## Acknowledgements
 
 - OpenCV (https://opencv.org/)
 - dlib (http://dlib.net/)
 - Python (https://www.python.org/)
-- Your University/Institution
+- Jessore University of Science and Technology
 
 **Note**: This system is designed to detect live faces only.  
 Fake attempts using photos, videos, or devices are rejected immediately with an "Unknown Face" warning.
