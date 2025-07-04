@@ -93,7 +93,7 @@ The Face Recognition Attendance System is an advanced desktop application design
 ## Demo
 
 Watch the full demo video here:  
-(Insert your demo link here)
+https://drive.google.com/drive/u/3/folders/1EQ2hVCmWSwF8RAZXDq936VkX8est6bty
 
 ## Project Structure
 
